@@ -1,0 +1,14 @@
+Astana Aktobe
+Astana Semey
+Semey Oral
+Almaty Shymkent
+Shymkent Atyrau
+Semey Astana
+Aktobe Atyrau
+Astana Karaganda
+Almaty Semey  
+Karaganda Almaty
+Shymkent Almaty
+Aktobe Astana
+Shymkent Tashkent
+
